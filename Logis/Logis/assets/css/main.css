@@ -19,7 +19,7 @@
 
 /* Colors */
 :root {
-  --color-default: #0a0d13;
+  --color-default: #493003;
   --color-primary: #493003;
   --color-secondary: #493003;
 }
@@ -100,7 +100,7 @@ section {
 .section-header span {
   position: absolute;
   top: 46px;
-  color: rgba(14, 29, 52, 0.06);
+  color: #493003;
   left: 0;
   right: 0;
   z-index: 1;
@@ -140,7 +140,7 @@ section {
 
 .breadcrumbs .page-header:before {
   content: "";
-  background-color: rgba(14, 29, 52, 0.8);
+  background-color: #493003;
   position: absolute;
   inset: 0;
 }
@@ -289,7 +289,7 @@ section {
 }
 
 .header.sticked {
-  background: rgba(14, 29, 52, 0.9);
+  background: #493003;
   padding: 15px 0;
   box-shadow: 0px 2px 20px rgba(14, 29, 52, 0.1);
 }
